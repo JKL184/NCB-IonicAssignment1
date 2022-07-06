@@ -1,0 +1,7 @@
+{
+  "name": "NCB-Assignment-1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
